@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @prateekjainaa
-- 👀 I’m interested in java, spring, k8s and cloud related technologies
+- 👀 I’m interested in java, jee, spring, k8s and cloud related technologies
 - 🌱 I’m currently learning aws
 - 💞️ I’m looking to collaborate on ...
 - 📫 mail-to: prateekjainaa@gmail.com
